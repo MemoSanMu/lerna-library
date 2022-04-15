@@ -1,0 +1,22 @@
+{
+  "name": "usetest",
+  "version": "0.0.0",
+  "description": "this is test library",
+  "author": "王森 <wangsen1@yonghui.cn>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/useTest.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "dependencies": {
+    "lodash-es": "^4.17.21"
+  }
+}
